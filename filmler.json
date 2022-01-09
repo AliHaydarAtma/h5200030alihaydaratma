@@ -1,29 +1,35 @@
 [ 
 	{
- 		"AdiSoyadi": "Prof.Dr. Mehmet İPŞİRLİ",
- 		"Eposta": "mipsirli@medipol.edu.tr",
- 		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/r0.vrf",
- 		"VerdigiDers": "Fizik"
+ 		"Film Adı": "Matrix Resurrections",
+ 		"VizyonGirisTarihi": "22 Aralık 2021",
+ 		"ResimURL": "https://github.com/AliHaydarAtma/h5200030alihaydaratma/blob/main/matrix.jpg",
  	},
 
  	{
- 		"AdiSoyadi": "Dr.Öğr.Üye. Hande YILMAZ",
- 		"Eposta": "handeyilmaz@medipol.edu.tr",
- 		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/r1.vrf",
- 		"VerdigiDers": "Yapay Zeka"
+ 		"Film Adı": "Dune",
+ 		"VizyonGirisTarihi": "22 Ekim 2021",
+ 		"ResimURL": "https://github.com/AliHaydarAtma/h5200030alihaydaratma/blob/main/dune.jpg"
  	},
 
  	{
- 		"AdiSoyadi": "Muhammet ÇAĞATAY",
- 		"Eposta": "muhammet@medipol.edu.tr",
- 		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/muhammet.png",
- 		"VerdigiDers": "Kotlin ile İleri Android Programlama"
+ 		"Film Adı": "Godzilla vs. Kong",
+ 		"VizyonGirisTarihi": "31 Mart 2021",
+ 		"ResimURL": "https://github.com/AliHaydarAtma/h5200030alihaydaratma/blob/main/godzillavskong.jpg"
  	},
 
  	{
- 		"AdiSoyadi": "Beyza Koyulmuş",
- 		"Eposta": "beyza@medipol.edu.tr",
-		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/beyza.png",
- 		"VerdigiDers": "Mobil Yazılımlar"
- 	}
+ 		"Film Adı": "The Tomorrow War",
+ 		"VizyonGirisTarihi": "2 Temmuz 2021",
+ 		"ResimURL": "https://github.com/AliHaydarAtma/h5200030alihaydaratma/blob/main/thetomorrowwar.jpg"
+ 	},
+	{
+ 		"Film Adı": "Spider-Man: No Way Home",
+ 		"VizyonGirisTarihi": "17 Aralık 2021",
+ 		"ResimURL": "https://github.com/AliHaydarAtma/h5200030alihaydaratma/blob/main/spiderman.jpg"
+ 	},
+	{
+ 		"Film Adı": "Free Guy",
+ 		"VizyonGirisTarihi": "13 Ağustos 2021",
+ 		"ResimURL": "https://github.com/AliHaydarAtma/h5200030alihaydaratma/blob/main/freeguy.jpg"
+ 	},
  ]
