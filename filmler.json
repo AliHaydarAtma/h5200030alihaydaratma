@@ -2,7 +2,7 @@
 	{
  		"Film Adı": "Matrix Resurrections",
  		"Vizyon Tarihi": "22 Aralık 2021",
- 		"ResimURL": "https://github.com/AliHaydarAtma/h5200030alihaydaratma/blob/main/matrix.jpg",
+ 		"ResimURL": "https://github.com/AliHaydarAtma/h5200030alihaydaratma/blob/main/matrix.jpg"
  	},
 
  	{
@@ -31,5 +31,5 @@
  		"Film Adi": "Free Guy",
  		"Vizyon Tarihi": "13 Ağustos 2021",
  		"ResimURL": "https://github.com/AliHaydarAtma/h5200030alihaydaratma/blob/main/freeguy.jpg"
- 	},
+ 	}
  ]
