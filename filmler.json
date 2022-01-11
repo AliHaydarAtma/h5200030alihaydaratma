@@ -1,35 +1,35 @@
 [ 
 	{
- 		"filmAdi": "Matrix Resurrections",
- 		"vizyonTarihi": "22 Aralık 2021",
+ 		"Film Adı": "Matrix Resurrections",
+ 		"Vizyon Tarihi": "22 Aralık 2021",
  		"ResimURL": "https://github.com/AliHaydarAtma/h5200030alihaydaratma/blob/main/matrix.jpg",
  	},
 
  	{
- 		"filmAdi": "Dune",
- 		"vizyonTarihi": "22 Ekim 2021",
+ 		"Film Adi": "Dune",
+ 		"Vizyon Tarihi": "22 Ekim 2021",
  		"ResimURL": "https://github.com/AliHaydarAtma/h5200030alihaydaratma/blob/main/dune.jpg"
  	},
 
  	{
- 		"filmAdi": "Godzilla vs. Kong",
- 		"vizyonTarihi": "31 Mart 2021",
+ 		"Film Adi": "Godzilla vs. Kong",
+ 		"Vizyon Tarihi": "31 Mart 2021",
  		"ResimURL": "https://github.com/AliHaydarAtma/h5200030alihaydaratma/blob/main/godzillavskong.jpg"
  	},
 
  	{
- 		"filmAdi": "The Tomorrow War",
- 		"vizyonTarihi": "2 Temmuz 2021",
+ 		"Film Adi": "The Tomorrow War",
+ 		"Vizyon Tarihi": "2 Temmuz 2021",
  		"ResimURL": "https://github.com/AliHaydarAtma/h5200030alihaydaratma/blob/main/thetomorrowwar.jpg"
  	},
 	{
- 		"filmAdi": "Spider-Man: No Way Home",
- 		"vizyonTarihi": "17 Aralık 2021",
+ 		"Film Adi": "Spider-Man: No Way Home",
+ 		"Vizyon Tarihi": "17 Aralık 2021",
  		"ResimURL": "https://github.com/AliHaydarAtma/h5200030alihaydaratma/blob/main/spiderman.jpg"
  	},
 	{
- 		"filmAdi": "Free Guy",
- 		"vizyonTarihi": "13 Ağustos 2021",
+ 		"Film Adi": "Free Guy",
+ 		"Vizyon Tarihi": "13 Ağustos 2021",
  		"ResimURL": "https://github.com/AliHaydarAtma/h5200030alihaydaratma/blob/main/freeguy.jpg"
  	},
  ]
